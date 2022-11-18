@@ -2,8 +2,6 @@
 
 https://www.oneplaneteducation.com/
 
-https://oneplaneteducation.monday.com/
-
 https://classroom.oneplaneteducation.com/
 
 <!--
